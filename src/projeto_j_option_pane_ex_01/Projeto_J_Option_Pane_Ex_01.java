@@ -6,7 +6,7 @@ package projeto_j_option_pane_ex_01;
 import javax.swing.JOptionPane;
 /**
  *
- * @author ALUNO
+ * @author Bruno Borelli
  */
 public class Projeto_J_Option_Pane_Ex_01 {
 
